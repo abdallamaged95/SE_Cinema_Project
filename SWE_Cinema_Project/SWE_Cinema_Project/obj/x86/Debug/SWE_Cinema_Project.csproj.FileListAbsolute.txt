@@ -1,0 +1,15 @@
+C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\bin\x86\Debug\SWE_Cinema_Project.exe.config
+C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\bin\x86\Debug\SWE_Cinema_Project.exe
+C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\bin\x86\Debug\SWE_Cinema_Project.pdb
+C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\bin\x86\Debug\Oracle.DataAccess.dll
+C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.csproj.AssemblyReference.cache
+C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.Main_Menu_Form.resources
+C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.Department_Employees_Form.resources
+C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.Movie_Customer_Form.resources
+C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.Properties.Resources.resources
+C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.csproj.GenerateResource.cache
+C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.csproj.CoreCompileInputs.cache
+C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.csproj.CopyComplete
+C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.exe
+C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.pdb
