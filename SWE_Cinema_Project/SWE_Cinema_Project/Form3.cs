@@ -75,5 +75,10 @@ namespace SWE_Cinema_Project
             commandbuilder = new OracleCommandBuilder(dataAdapter);
             dataAdapter.Update(ds.Tables[0]);
         }
+
+        private void Data_Grid_View_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

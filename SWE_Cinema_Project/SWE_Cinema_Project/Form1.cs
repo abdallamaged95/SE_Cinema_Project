@@ -40,5 +40,19 @@ namespace SWE_Cinema_Project
             mcForm.Show();
             this.Hide();
         }
+
+        private void Crystal_Report_Button1_Click(object sender, EventArgs e)
+        {
+            Movies_Actors report1 = new Movies_Actors(this);
+            report1.Show();
+            this.Hide();
+        }
+
+        private void Crystal_Report_Button_2_Click(object sender, EventArgs e)
+        {
+            Movies_Profit report2 = new Movies_Profit(this);
+            report2.Show();
+            this.Hide();
+        }
     }
 }

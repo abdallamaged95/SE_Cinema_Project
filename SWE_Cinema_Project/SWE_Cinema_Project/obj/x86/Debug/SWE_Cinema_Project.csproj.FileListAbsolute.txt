@@ -13,3 +13,16 @@ C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\
 C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.csproj.CopyComplete
 C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.exe
 C:\Users\abdel\source\repos\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.pdb
+D:\Study\FCIS 2024\Semester 6 FCIS 2024\Software Engineering\Cinema Project\SWE_Cinema_Project\SWE_Cinema_Project\bin\x86\Debug\SWE_Cinema_Project.exe.config
+D:\Study\FCIS 2024\Semester 6 FCIS 2024\Software Engineering\Cinema Project\SWE_Cinema_Project\SWE_Cinema_Project\bin\x86\Debug\SWE_Cinema_Project.exe
+D:\Study\FCIS 2024\Semester 6 FCIS 2024\Software Engineering\Cinema Project\SWE_Cinema_Project\SWE_Cinema_Project\bin\x86\Debug\SWE_Cinema_Project.pdb
+D:\Study\FCIS 2024\Semester 6 FCIS 2024\Software Engineering\Cinema Project\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.csproj.AssemblyReference.cache
+D:\Study\FCIS 2024\Semester 6 FCIS 2024\Software Engineering\Cinema Project\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.csproj.SuggestedBindingRedirects.cache
+D:\Study\FCIS 2024\Semester 6 FCIS 2024\Software Engineering\Cinema Project\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.Main_Menu_Form.resources
+D:\Study\FCIS 2024\Semester 6 FCIS 2024\Software Engineering\Cinema Project\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.Department_Employees_Form.resources
+D:\Study\FCIS 2024\Semester 6 FCIS 2024\Software Engineering\Cinema Project\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.Movie_Customer_Form.resources
+D:\Study\FCIS 2024\Semester 6 FCIS 2024\Software Engineering\Cinema Project\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.Properties.Resources.resources
+D:\Study\FCIS 2024\Semester 6 FCIS 2024\Software Engineering\Cinema Project\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.csproj.GenerateResource.cache
+D:\Study\FCIS 2024\Semester 6 FCIS 2024\Software Engineering\Cinema Project\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.csproj.CoreCompileInputs.cache
+D:\Study\FCIS 2024\Semester 6 FCIS 2024\Software Engineering\Cinema Project\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.exe
+D:\Study\FCIS 2024\Semester 6 FCIS 2024\Software Engineering\Cinema Project\SWE_Cinema_Project\SWE_Cinema_Project\obj\x86\Debug\SWE_Cinema_Project.pdb

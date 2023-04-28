@@ -57,13 +57,14 @@
             this.Data_Grid_View.RowTemplate.Height = 24;
             this.Data_Grid_View.Size = new System.Drawing.Size(550, 342);
             this.Data_Grid_View.TabIndex = 2;
+            this.Data_Grid_View.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.Data_Grid_View_CellContentClick);
             // 
             // Movies_Radio_Button
             // 
             this.Movies_Radio_Button.AutoSize = true;
             this.Movies_Radio_Button.Location = new System.Drawing.Point(276, 389);
             this.Movies_Radio_Button.Name = "Movies_Radio_Button";
-            this.Movies_Radio_Button.Size = new System.Drawing.Size(72, 20);
+            this.Movies_Radio_Button.Size = new System.Drawing.Size(73, 21);
             this.Movies_Radio_Button.TabIndex = 3;
             this.Movies_Radio_Button.TabStop = true;
             this.Movies_Radio_Button.Text = "Movies";
@@ -74,7 +75,7 @@
             this.Customers_Radio_Button.AutoSize = true;
             this.Customers_Radio_Button.Location = new System.Drawing.Point(466, 389);
             this.Customers_Radio_Button.Name = "Customers_Radio_Button";
-            this.Customers_Radio_Button.Size = new System.Drawing.Size(92, 20);
+            this.Customers_Radio_Button.Size = new System.Drawing.Size(96, 21);
             this.Customers_Radio_Button.TabIndex = 4;
             this.Customers_Radio_Button.TabStop = true;
             this.Customers_Radio_Button.Text = "Customers";

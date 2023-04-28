@@ -81,6 +81,7 @@
             this.Crystal_Report_Button1.TabIndex = 2;
             this.Crystal_Report_Button1.Text = "Crystal - Report 1";
             this.Crystal_Report_Button1.UseVisualStyleBackColor = true;
+            this.Crystal_Report_Button1.Click += new System.EventHandler(this.Crystal_Report_Button1_Click);
             // 
             // Crystal_Report_Button_2
             // 
@@ -91,6 +92,7 @@
             this.Crystal_Report_Button_2.TabIndex = 3;
             this.Crystal_Report_Button_2.Text = "Crystal - Report 2";
             this.Crystal_Report_Button_2.UseVisualStyleBackColor = true;
+            this.Crystal_Report_Button_2.Click += new System.EventHandler(this.Crystal_Report_Button_2_Click);
             // 
             // Main_Menu_Form
             // 
