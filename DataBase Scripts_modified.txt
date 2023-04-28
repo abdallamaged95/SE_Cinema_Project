@@ -88,3 +88,27 @@ group by movie_name;
 end;
 
 ################################################################
+
+create or replace procedure STAFF_IDs
+(dept_id in NUMBER, ids out sys_refcursor)
+as
+begin
+open ids for
+select emp_id
+from staff
+where dep_id = dept_id;
+end;
+
+################################################################
+
+create or replace procedure STAFF_SALARY
+(staff_id in INTEGER, slry out Number)
+as
+begin
+select salary
+into slry
+from staff
+where emp_id = staff_id;
+end;
+
+################################################################
